@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_ADDRESS": 13,
+        "KEY_HOURS": 15,
+        "KEY_NAME1": 1,
+        "KEY_NAME10": 10,
+        "KEY_NAME2": 2,
+        "KEY_NAME3": 3,
+        "KEY_NAME4": 4,
+        "KEY_NAME5": 5,
+        "KEY_NAME6": 6,
+        "KEY_NAME7": 7,
+        "KEY_NAME8": 8,
+        "KEY_NAME9": 9,
+        "KEY_NUM_PLACES": 11,
+        "KEY_PHONE": 14,
+        "KEY_PLACE": 12,
+        "KEY_TYPE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "mattkronengold@icloud.com",
+    "longName": "What's Around",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "What's Around",
+    "uuid": "71f6027c-3a58-4cde-b039-0ae1dc2a9c9f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
